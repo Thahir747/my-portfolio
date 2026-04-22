@@ -7,10 +7,17 @@ Welcome to my portfolio! I specialize in turning raw data into business insights
 
 ## 🚀 Projects
 
-### 1. Sales Trend Prediction (Upcoming)
-- **Goal:** Predict monthly sales spikes using historical data.
-- **Tech:** Python, Scikit-Learn, Linear Regression.
-- [View Project Here](link-to-folder)
+### 📈 1. Sales Trend Prediction
+**Problem:** Businesses need to know future sales to manage inventory. 
+**Solution:** I built a Linear Regression model that analyzes monthly sales data to predict future trends.
+
+#### Result:
+![Sales Prediction Chart](sales_chart.png)
+
+#### Tech Used:
+- **Language:** Python
+- **Libraries:** Pandas (Data Handling), Scikit-Learn (Machine Learning), Matplotlib (Visualization)
+- [View Source Code](./predict_sales.py)
 
 ### 2. Customer Segmentation (Upcoming)
 - **Goal:** Grouping customers by buying behavior using RFM analysis.
