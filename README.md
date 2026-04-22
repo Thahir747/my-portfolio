@@ -1,4 +1,4 @@
-# Hi, I'm Thahir Hussain Muhammed 👋
+# Hi, I'm Thahir Hussain M 👋
 ### Data Science & Java Developer | Kochi, India
 
 Welcome to my portfolio! I specialize in turning raw data into business insights using Python and Java.
@@ -7,12 +7,10 @@ Welcome to my portfolio! I specialize in turning raw data into business insights
 
 ## 🚀 Projects
 
-### 📈 1. Sales Trend Prediction
-**Problem:** Businesses need to know future sales to manage inventory. 
-**Solution:** I built a Linear Regression model that analyzes monthly sales data to predict future trends.
-
-#### Result:
-![Sales Prediction Chart](sales_chart.png)
+### 📊 1. Real-World Sales Prediction
+**Problem:** Analyzing 500,000+ UK Retail transactions to predict daily revenue.
+**Result:** ![Sales Chart](./Real_World_Project/real_world_graph.png)
+- [View Code](./Real_World_Project/main_project.py)
 
 #### Tech Used:
 - **Language:** Python
